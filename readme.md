@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?color=timeGradient&height=150&type=waving&text=ByungChang%'s%_Github&fontSize=40&animation=fadeIn)
 
-[![Tistory Badge](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white&color=orange)](https://proye.tistory.com/)
-
-
-
 
 
 > **안녕하세요! 백엔드 개발자가 되기 위해 열심히 공부하는 중입니다!**
