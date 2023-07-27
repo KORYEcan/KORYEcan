@@ -1,21 +1,33 @@
 ![header](https://capsule-render.vercel.app/api?color=timeGradient&height=150&type=waving&text=ByungChang%'s%_Github&fontSize=40&animation=fadeIn)
 
-                                   안녕하세요 예비 백엔드 개발자 예병창입니다!!
 
-##  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKORYEcan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Tistory Badge](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white&color=orange)](https://proye.tistory.com/)
 
 
 
 
 
+> **안녕하세요! 백엔드 개발자가 되기 위해 열심히 공부하는 중입니다!**
+                                   
 
 
-## Stack Status
+
+
+
+
+
+
+ ## :computer: STACK
+
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-green?style=for-the-badge&logo=springboot&logoColor=6DB33F"/> 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
-## Projects
+
+## 📽 Projects
+#### 팀프로젝트
+[일정 관리 프로젝트](https://github.com/MiniProject-2/need-more-task-be)
+#### 개인프로젝트
+[블로그 프로젝트](https://github.com/KORYEcan/yeblog)
 
 
 
