@@ -25,7 +25,7 @@
 [블로그 프로젝트](https://github.com/KORYEcan/yeblog)
 
 * * * 
-## 📝: STUDYLOG
+## 📝 STUDYLOG
 [![Tistory Badge](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white&color=orange)](https://proye.tistory.com/)
 
 ![footer](https://capsule-render.vercel.app/api?color=timeGradient&height=35&type=soft)
